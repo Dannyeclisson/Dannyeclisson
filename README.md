@@ -8,5 +8,6 @@
 <div style="display: inline_block"><br/>
     <img align="center" alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+    <img align="center" alt="PHP" src="[https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white](https://www.php.net/)" />
     
 </div>
