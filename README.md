@@ -1,7 +1,7 @@
 
 ### Olá! Eu me chamo Dannyeclisson Rodrigo e atualmente estou cursando Engenharia de Software na Universidade de Brasilia
 
-![Dannyeclisson GitHub stats](https://github-readme-stats.vercel.app/api?username=Dannyeclisson&show_icons=true&theme=radical)
+![Dannyeclisson's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dannyeclisson&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 
 ### Tecnologias e linguagens que estou aprendendo
 
