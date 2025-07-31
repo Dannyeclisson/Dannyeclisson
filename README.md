@@ -20,7 +20,7 @@
   Frontend em React – Projeto de Engenharia de Software (UnB)
 
 - 🔹 [Events](https://github.com/Dannyeclisson/events)  
-  Sistema de eventos em PHP + MySQL
+  Sistema de eventos em PHP
 
 - 🔹 [Estruturas de Dados em C](https://github.com/Dannyeclisson/C_e_Estrutura_de_Dados)  
   Implementações de pilhas, filas, árvores, etc.
