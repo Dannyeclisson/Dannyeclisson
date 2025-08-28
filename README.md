@@ -1,7 +1,7 @@
 # 👋 Oi, eu sou o Dannyeclisson
 
 🎓 Estudante de Engenharia de Software – UnB
-💻 Desenvolvedor focado em web e back-end
+💻 Desenvolvedor atualmente focado em web
 
 ---
 
