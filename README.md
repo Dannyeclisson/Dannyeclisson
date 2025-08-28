@@ -36,4 +36,4 @@
 ## 📫 Contato
 
 [LinkedIn](https://www.linkedin.com/in/dannyeclisson-rodrigo-828893283/)  
-dannyeclisson@gmail.com
+dannyeclissonrodrigo@gmail.com
